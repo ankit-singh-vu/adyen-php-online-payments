@@ -3,7 +3,8 @@
 /public/storage
 /storage/*.key
 /storage/logs
-/vendor
+# Ignore all folders
+# /vendor
 .env
 .env.backup
 .phpunit.result.cache
